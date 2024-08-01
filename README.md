@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=900&size=48&pause=1000&color=E1E1E1&background=5B6458&center=true&vCenter=true&width=720&height=200&lines=Backend+development;Frontend+development;Mini+Apps+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=900&size=72&pause=1000&color=E1E1E1&background=5B6458&center=true&vCenter=true&width=1080&height=300&lines=Backend+development;Frontend+development;Mini+Apps+development)](https://git.io/typing-svg)
 
 # ʜɪ ᴛʜᴇʀᴇ! 👋 ɪ'ᴍ ɴɪᴋɪᴛᴀ
 
