@@ -24,9 +24,20 @@ Description: A simple game in telegram bot. Works like mini app.
 
 **Soon...**
 
+## 🔥 ᴍʏ ꜱᴛᴀᴛꜱ :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NERV-NICK&theme=dark&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+
 ## ✉️ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ!
 
-- Telegram: **NERV_NICKK**
-- Linkedin: **Nikita Rusakov**
-
----
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nikita-rusakov-python/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://youtube.com/@n-codeee?si=KSI4Vc-vED7NGDn1">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://t.me/NERV_NICKK">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
