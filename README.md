@@ -22,6 +22,18 @@ I'm a backend developer with experience in Python, HTML, CSS, and JavaScript. We
 
 Description: A simple game in telegram bot. Works like mini app.
 
+**2. Lime Tap**
+
+Description: A simple tap game in telegram bot. Works like mini app.
+
+**3. Lucky Boxes**
+
+Description: App for opening the luckyboxes
+
+**4. Archeology simulator**
+
+Description: PC game with a big plot line
+
 **Soon...**
 
 ## 🔥 ᴍʏ ꜱᴛᴀᴛꜱ :
