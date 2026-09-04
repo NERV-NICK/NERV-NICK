@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Krona+One&size=50&duration=3500&pause=1000&color=C0FF00&background=000000&center=true&vCenter=true&width=1080&height=360&lines=AI+%26+Automation;Fullstack+development;Product+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Krona+One&size=50&duration=3500&pause=1000&color=C0FF00&background=000000&center=true&vCenter=true&width=1080&height=360&lines=AI+%26+Automation;BackendEngineering;Product+development)](https://git.io/typing-svg)
 
 # ʜɪ ᴛʜᴇʀᴇ! 👋 ɪ'ᴍ ɴɪᴋɪᴛᴀ
 
