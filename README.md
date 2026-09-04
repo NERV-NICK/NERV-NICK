@@ -1,55 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=900&size=72&pause=1000&color=E1E1E1&background=5B6458&center=true&vCenter=true&width=1080&height=300&lines=Backend+development;Frontend+development;Mini+Apps+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Krona+One&size=50&duration=3500&pause=1000&color=C0FF00&background=000000&center=true&vCenter=true&width=1080&height=360&lines=AI+%26+Automation;Fullstack+development;Product+development)](https://git.io/typing-svg)
 
 # ʜɪ ᴛʜᴇʀᴇ! 👋 ɪ'ᴍ ɴɪᴋɪᴛᴀ
 
-I'm a backend developer with experience in Python, HTML, CSS, and JavaScript. Welcome to my GitHub profile! 🚀
+I'm a backend developer and product builder focused on building useful applications, automation and digital products.
 
-## 👨‍💻 ᴀʙᴏᴜᴛ ᴍᴇ
+I mainly work with **Python** and **Go**, building backend systems, APIs, bots and mini apps.
+I'm also interested in AI, product development and turning ideas into working products.
 
-- 🌱 I'm currently working on exciting projects using Python.
-- 💡 I love solving complex problems and building efficient systems.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Krona+One&duration=3500&pause=1000&color=C0FF00&background=000000&center=true&vCenter=true&repeat=false&width=1080&lines=%E2%9A%99%EF%B8%8F+tech+stack)](https://git.io/typing-svg)
+- **Languages**  
+Python · Golang · HTML · CSS · JavaScript 
 
-## ⚙️ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
+- **Frameworks**  
+FastAPI · Flask · Django · Aiogram · React · Vue
 
-- **Languages:** Python, HTML, CSS, JavaScript
-- **Frameworks:** Flask, FastAPI
-- **Database:** PostgreSQL, MySQL
-- **Tools:** Git, VS Code, PyCharm
+- **Databases**  
+PostgreSQL · MySQL · MongoDB · Redis 
 
-## 💻 ᴘʀᴏᴊᴇᴄᴛꜱ
+- **Tools**  
+Git · Docker · VS Code
 
-**1. N-CODE Clicker**
+- **Currently exploring**  
+AI · Automation · Product Engineering
 
-Description: A simple game in telegram bot. Works like mini app.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Krona+One&duration=3500&pause=1000&color=C0FF00&background=000000&center=true&vCenter=true&repeat=false&width=1080&lines=%F0%9F%94%AD+what+I'm+working+on)](https://git.io/typing-svg)
+Building my own products and experimenting with ideas across backend development, AI and automation.
 
-**2. Lime Tap**
+Most of my projects are available in my public repositories.
 
-Description: A simple tap game in telegram bot. Works like mini app.
-
-**3. Lucky Boxes**
-
-Description: App for opening the luckyboxes
-
-**4. Archeology simulator**
-
-Description: PC game with a big plot line
-
-**Soon...**
-
-## 🔥 ᴍʏ ꜱᴛᴀᴛꜱ :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NERV-NICK&theme=dark&hide_border=true&border_radius=15)](https://git.io/streak-stats)
-
-## ✉️ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ!
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/nikita-rusakov-python/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://youtube.com/@n-codeee?si=KSI4Vc-vED7NGDn1">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://t.me/NERV_NICKK">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Krona+One&duration=3500&color=C0FF00&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=1080&height=80&lines=%E2%9C%89%EF%B8%8F+let's+connect;%E2%AC%87%EF%B8%8F++%E2%AC%87%EF%B8%8F++%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://t.me/nervcoder">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
